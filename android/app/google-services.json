@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986251975502",
+    "project_id": "wise-bite-app",
+    "storage_bucket": "wise-bite-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986251975502:android:ecb20c5bcbc85e7c185c1f",
+        "android_client_info": {
+          "package_name": "com.wisebite.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcm-94tgwWAEpD7JX-G5wgB_g70HGFCWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
